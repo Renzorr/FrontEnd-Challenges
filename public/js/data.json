@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Nft Preview Card Component",
+    "level": "Newbie",
+    "name": "challenge-react-nft-card-component"
+  },
+  {
+    "title": "Single price grid component",
+    "level": "Newbie",
+    "name": "challenge-grid-component"
+  },
+  {
+    "title": "Product preview card component",
+    "level": "Newbie",
+    "name": "challenge-product-card-component"
+  },
+  {
+    "title": "Results summary component",
+    "level": "Newbie",
+    "name": "challenge-result-summary-component"
+  },
+  {
+    "title": "Interactive rating component",
+    "level": "Newbie",
+    "name": "challenge-rating-component"
+  },
+  {
+    "title": "Pricing component with toggle",
+    "level": "Junior",
+    "name": "challenge-pricing-component"
+  },
+  {
+    "title": "Advice generator app",
+    "level": "Junior",
+    "name": "challenge-advice-component"
+  },
+  {
+    "title": "Social media dashboard",
+    "level": "Junior",
+    "name": "challenge-dashboard-theme"
+  },
+  {
+    "title": "Crowdfunding product page",
+    "level": "Junior",
+    "name": "challenge-crowfunding-page"
+  },
+  {
+    "title": "Sunnyside agency",
+    "level": "Junior",
+    "name": "challenge-sunnyside-landing"
+  },
+  {
+    "title": "Loopstudios landing page",
+    "level": "Junior",
+    "name": "challenge-loopstudios-landing"
+  },
+  {
+    "title": "Maker pre-launch landing page",
+    "level": "Junior",
+    "name": "challenge-maker-landing"
+  },
+  {
+    "title": "Single-page design portfolio",
+    "level": "Junior",
+    "name": "challenge-single-page-portafolio"
+  },
+  {
+    "title": "Rock, Paper, Scissors game",
+    "level": "Advanced",
+    "name": "challenge-rock-paper-scissors-game"
+  }
+]

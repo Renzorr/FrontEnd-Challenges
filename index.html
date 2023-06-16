@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/index.css" />
+    <title>FrontEnd Challenges</title>
+  </head>
+  <body>
+    <header class="container">
+      <a href="#" aria-label="FrontEnd Mentor Profile Link">
+        <img
+          class="logo"
+          src="./public/assets/Logo.png"
+          alt="FrontEnd Mentor Logo"
+        />
+      </a>
+    </header>
+
+    <section class="container hero" aria-label="Hero Section">
+      <h1>
+        FrontEnd <br />
+        Challenges
+      </h1>
+      <p>
+        <span>FrontEnd Mentor</span> is a platform that provides coding
+        challenges, ranging from components to web apps with full functionality.
+        Each challenge is like a real-life work brief where you're given the
+        styles and requirements, and then it's up to you to make your solution
+        as close as possible to the design. I've gotten a lot of help here in
+        honing my frontend skills, and these are the solutions I built.
+      </p>
+    </section>
+
+    <nav class="container select-container">
+      <ul>
+        <li><button id="filter" value="all">All</button></li>
+        <li><button id="filter" value="Newbie">Newbie</button></li>
+        <li><button id="filter" value="Junior">Junior</button></li>
+        <li><button id="filter" value="Intermediate">Intermediate</button></li>
+        <li><button id="filter" value="Advanced">Advanced</button></li>
+      </ul>
+    </nav>
+
+    <main
+      class="container challenge-container"
+      aria-label="Challenge Section"
+    ></main>
+
+    <script src="./public/js/index.js"></script>
+    <script src="./public/js/category.js"></script>
+  </body>
+</html>

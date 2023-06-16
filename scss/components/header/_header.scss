@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: flex-end;
+
+  .logo {
+    margin-top: 4.5rem;
+    width: clamp(6.7rem, 10vw + 1rem, 9.6rem);
+    height: clamp(6.7rem, 10vw + 1rem, 9.6rem);
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 7px 7px 0 black;
+    transition: 0.3s;
+
+    &:hover {
+      box-shadow: inherit;
+    }
+  }
+}
